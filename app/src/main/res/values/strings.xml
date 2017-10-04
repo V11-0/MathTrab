@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Trabalho de Matemática</string>
+    <string name="title_activity_main">Probabilidade</string>
+    <string name="large_text">
+        "Na matemática, a probabilidade permite obter o cálculo das ocorrências possíveis"
+        "num experimento aleatório (fenômeno aleatório)."
+        "Em outras palavras, a probabilidade analisa as \"chances\" de obter determinado resultado.\n"
+
+        "A teoria das probabilidades inclui conceitos matemáticos que foram explorados"
+        "já na antiguidade. O termo derivado do latim \"probare\" corresponde ao"
+        "verbo provar ou testar.\n\n"
+
+        "Experimento Aleatório\n\n"
+
+        "O experimento ou evento aleatório é aquele que pode ocorrer e resultar de"
+        "diferentes maneiras cada vez que é lançado. Ou seja, não sabemos seu"
+        "resultado, porém podemos calcular quais resultados possíveis podemos obter.\n\n"
+
+        "Espaço Amostral\n\n"
+
+        "Representado pela letra S, o espaço amostral corresponde ao conjunto"
+        "de resultados possíveis obtidos a partir de um evento ou fenômeno aleatório.\n"
+        "Por exemplo num baralho de cartas, onde o espaço amostral corresponde às 52"
+        "cartas que compõem o baralho.\n"
+        "Da mesma forma, o espaço amostral no lançamento de um dado, são as seis"
+        "faces que o compõem: S = {1, 2, 3, 4, 5 e 6}.\n"
+        "Note que os subconjuntos de um espaço amostral são denominados \"eventos\","
+        "ou seja, no conjunto de cartas, há 52 eventos possíveis, enquanto no dado há seis.\n"
+        "Assim, podemos concluir que a probabilidade é calculada pela divisão de eventos"
+        "pelo espaço amostral.\n\n"
+
+        "Fórmula da Probabilidade\n\n"
+
+        "Assim, se num fenômeno aleatório as possibilidades são igualmente"
+        "prováveis, a probabilidade de ocorrer um evento é medida pela"
+        "divisão entre o número de eventos favoráveis e o número total de resultados possíveis:\n"
+    </string>
+
+    <string name="form_explain">
+        "Donde:\n\n"
+
+        "P: probabilidade;\n"
+        "na: número de casos (eventos) favoráveis;\n"
+        "n: número de casos (eventos) possíveis.\n"
+    </string>
+
+    <string name="if_image_desc">IF</string>
+    <string name="title_activity_calc">Cálculos</string>
+    <string name="prob"><![CDATA[<p>Image</p>]]></string>
+    <string name="text1">Quantos são os eventos favoráveis:</string>
+    <string name="text1_2">Qual o total de eventos:</string>
+
+    <string name="res">A probabilidade disso é de: %.1f%%</string>
+    <string name="empty">Nenhum Campo deve estar vazio</string>
+</resources>
