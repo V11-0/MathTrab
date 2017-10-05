@@ -10,8 +10,9 @@
 
     <style name="Splash" parent="Theme.AppCompat.Light.NoActionBar">
         <item name="android:windowLightStatusBar">true</item>
-        <item name="android:statusBarColor">#fafafa</item>
-        <item name="android:navigationBarColor">#fafafa</item>
+        <item name="android:statusBarColor">#ffffff</item>
+        <item name="android:navigationBarColor">#ffffff</item>
+        <item name="android:background">#ffffff</item>
     </style>
 
     <style name="AppTheme.NoActionBar">
